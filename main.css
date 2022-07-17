@@ -148,6 +148,7 @@ footer{
     justify-content: end;
     align-items: center;
     bottom: 15px;
+    
    
     width: 200px;
 }
@@ -165,7 +166,7 @@ footer{
 
     .media{
         position: relative;
-        right: 50px;
+        right: 70px;
     }
 
     .bot{
@@ -173,24 +174,4 @@ footer{
         left: 50px;
     }
 }
-
-@media only screen and (max-width: 1500px){
-    .gat{
-        display: flex;
-        justify-content: center;
-        
-    }
-
-    .media{
-        position: relative;
-        right: 50px;
-    }
-
-    .bot{
-        position: relative;
-        left: 50px;
-    }
-}
-
-
 
