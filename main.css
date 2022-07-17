@@ -161,6 +161,23 @@ footer{
     }
 }
 
+@media only screen and (max-width: 1500px){
+    .gat{
+        display: flex;
+        justify-content: center;
+        
+    }
+
+    .media{
+        position: relative;
+        right: 50px;
+    }
+
+    .bot{
+        position: relative;
+        left: 50px;
+    }
+}
 
 
 
